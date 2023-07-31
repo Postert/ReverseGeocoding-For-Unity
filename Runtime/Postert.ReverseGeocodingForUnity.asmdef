@@ -1,0 +1,16 @@
+{
+    "name": "Postert.ReverseGeocodingForUnity",
+    "rootNamespace": "Postert.ReverseGeocodingForUnity",
+    "references": [
+        "GUID:e92b5971e4c4e6b42822b3887190d8e0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
