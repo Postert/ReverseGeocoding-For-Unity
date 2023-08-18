@@ -4,7 +4,7 @@
   "description": "The ReverseGeocoding-For-Unity library provides methods to query Mapbox address data for given geographic coordinates. As this library relies on the ReverseGeocoding-For-Unity package, make sure to add it to your project as well: https://github.com/Postert/ReverseGeocoding-For-Unity.git",
   "unity": "2021.3",
   "unityRelease": "16f1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "documentationUrl": "https://github.com/Postert/ReverseGeocoding-For-Unity/tree/main",
   "licensesUrl": "https://github.com/Postert/ReverseGeocoding-For-Unity/blob/main/LICENSE",
   "author": {
